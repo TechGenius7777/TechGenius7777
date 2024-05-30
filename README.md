@@ -1,6 +1,9 @@
 ## Stats
 ![Tech Genius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechGenius7777&count_private=true&theme=synthwave&show_icons=true)
 
+## Nuxter
+[![TechGenius7777 Nuxter profile](https://nuxters.nuxt.com/card/TechGenius7777/og.png)](https://nuxters.nuxt.com/TechGenius7777)
+
 ## Unwrapped 2023
 <img src='unwrapped-2023/unwrapped_intro.png' width='500'>
 <img src='unwrapped-2023/your_contributions.png' width='500'>
